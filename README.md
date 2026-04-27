@@ -1,1 +1,1 @@
-# Linux-reports
+# AstraLinux-reports
